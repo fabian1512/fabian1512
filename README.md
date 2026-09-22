@@ -1,7 +1,7 @@
-<h3 align="center">Hi, ich bin Fabian 👋</h3>
+<h3 align="center">Hi, I'm Fabian 👋</h3>
 
 <p align="center">
-  Ich entwickle an <a href="https://github.com/fabian1512/jelu-clone">jelu-clone</a> – einem Fork von <a href="https://github.com/bayang/jelu">Jelu</a> mit eigenen Anpassungen.
+  I build things for my own use with <a href="https://opencode.ai">opencode</a>, test them, and help improve other projects.
 </p>
 
 <p align="center">
@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/fabian1512">☕ Support me on Buy Me a Coffee</a>
+  <a href="https://buymeacoffee.com/fabian1512">☕ Buy Me a Coffee</a>
 </p>
